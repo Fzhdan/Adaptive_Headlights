@@ -12,7 +12,7 @@ Inspired by Audi’s cutting-edge adaptive headlight technology, Adaptive LED Ma
 
 - **Phase 2: Hardware Integration (Work in Progress)**  
   Integrate the simulation with actual hardware components, such as MAX7219 LED modules and a Raspberry Pi Camera Board Version 2 (Sony IMX219 sensor).
-
+- [Presentation-Link](https://www.canva.com/design/DAGmBVX3RZU/bKoPv1vMZ9TCl1Qrze_vrg/edit)
 ---
 ## Table of Contents
 
